@@ -1,1 +1,8 @@
-text
+# Sort Probes
+
+- strings associated with "bottom" "depth" "clarity" "seeing" "hearing" "sound"
+
+> Problematic
+should text be sorted and selected according to token patterns?
+Or should text be sorted via some form of topic model?
+
